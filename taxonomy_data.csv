@@ -1,561 +1,561 @@
-Col1,Col2,Value,CL1,CL2,CL3,CL4,,,,Value
-Transportation,Best Route (GPS),1,Compare possible routes,Compare routes,Compare actions,Compare,,,,1
-Commerce & Sales,AR Item Viewing,1,Detect collision events of digital product and objects in space,Detect collision of objects,Detect event,Detect,,,,1
-Commerce & Sales,AR Item Viewing,1,Detect spatial characteristics and size,Detect space,Detect thing,Detect,,,,1
-Commerce & Sales,AR Item Viewing,1,Identify objects in space,Identify surrounding objects,Identify thing,Identify,,,,1
-Commerce & Sales,AR Item Viewing,1,Recommend best size of product in relation to space,Recommend size,Recommend strategy,Recommend,,,,1
-Transportation,AV Lane Departure,1,Detect nearby cars,Detect cars,Detect thing,Detect,,,,1
-Transportation,AV Lane Departure,1,Detect if car is leaving lane,Detect departure,Detect action,Detect,,,,1
-Transportation,AV Lane Departure,1,Detect lane boundaries,Detect lane,Detect thing,Detect,,,,1
-Transportation,AV Lane Departure,1,Identify position of car in lane,Identify car position,Identify location,Identify,,,,1
-Transportation,AV Lane Departure,1,Identify intention of lane departure,Identify intention of departure,Identify action,Identify,,,,1
-Transportation,AV Lane Departure,1,Rate danger of lane departure,Rate danger,Rate range,Rate,,,,1
-Transportation,Best Route (GPS),1,Estimate travel time,Estimate duration,Estimate event,Estimate,,,,1
-Transportation,Best Route (GPS),1,Forecast traffic congestion,Forecast congestion,Forecast event,Forecast,,,,1
-Transportation,Best Route (GPS),1,Predict car location offline,Predict car location,Predict location,Predict,,,,1
-Transportation,Best Route (GPS),1,Recommend best route,Recommend route,Recommend action,Recommend,,,,1
-Risk Mitigation & Security,Biometric Security,1,Compare features to accepted user settings,Compare features,Compare things,Compare,,,,1
-Risk Mitigation & Security,Biometric Security,1,Detect if 3D shape is a face,Detect person,Detect thing,Detect,,,,1
-Risk Mitigation & Security,Biometric Security,1,Detect if an image has a fingerprint,Detect person,Detect thing,Detect,,,,1
-Risk Mitigation & Security,Biometric Security,1,Detect if audio contains human voice,Detect person,Detect thing,Detect,,,,1
-Risk Mitigation & Security,Biometric Security,1,Detect if image has a face,Detect person,Detect thing,Detect,,,,1
-Risk Mitigation & Security,Biometric Security,1,Identify fingerprint characteristics,Identify person,Identify thing,Identify,,,,1
-Risk Mitigation & Security,Biometric Security,1,Identify person from 3D face shape,Identify person,Identify thing,Identify,,,,1
-Risk Mitigation & Security,Biometric Security,1,Identify person from image of face,Identify person,Identify thing,Identify,,,,1
-Risk Mitigation & Security,Biometric Security,1,Identify person from their voice,Identify person,Identify thing,Identify,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Compare candidates applying for job,Compare candidates,Compare things,Compare,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Detect if audio contains human voice,Detect person,Detect thing,Detect,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Detect if image has a face,Detect person,Detect thing,Detect,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Identify facial expressions,Identify emotion/intention,Identify thing,Identify,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Identify speech patterns,Identify sequential pattern,Identify thing,Identify,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Identify resume keywords,Identify words,Identify thing,Identify,,,,1
-Professional Services,Candidate Screening & Recruitment,1,Rate candidates applying for job,Rate candidates,Rate things,Rate,,,,1
-"Manufacturing, Production & Agriculture",Defect Detection,1,Detect if product has defects,Detect abnormalities,Detect condition,Detect,,,,1
-"Manufacturing, Production & Agriculture",Defect Detection,1,Identify cause of defect,Identify cause of anomaly,Identify cause,Identify,,,,1
-"Manufacturing, Production & Agriculture",Defect Detection,1,Identify location of defect,Identify location of anomaly,Identify location,Identify,,,,1
-"Manufacturing, Production & Agriculture",Defect Detection,1,Identify type of defect,Identify type,Identify thing,Identify,,,,1
-Healthcare,Drug Discovery & Development,1,Discover usages for drug,Discover usage,Discover action,Discover,,,,1
-Healthcare,Drug Discovery & Development,1,Estimate drug toxicity,Estimate toxicity,Estimate range,Estimate,,,,1
-Healthcare,Drug Discovery & Development,1,Forecast profitability of new/repurposed drug,Forecast profit,Forecast outcome,Forecast,,,,1
-Healthcare,Drug Discovery & Development,1,Predict drug's bioactivity,Predict bioactivity,Predict action,Predict,,,,1
-Healthcare,Drug Discovery & Development,1,Predict drug's physio-chemical reaction,Predict physio-chemical reaction,Predict action,Predict,,,,1
-Healthcare,Drug Discovery & Development,1,Predict drug protein interaction,Predict protein interaction,Predict action,Predict,,,,1
-Healthcare,Drug Discovery & Development,1,Predict drug's protein structure,Predict protein structure,Predict thing,Predict,,,,1
-Healthcare,Drug Discovery & Development,1,Rate drugs on potential promise,Rate usefulness,Rate outcome,Rate,,,,1
-Infrastructure & Utilities,Energy & Utility Management,1,Forecast peak usage of utility,Forecast peak event,Forecast event,Forecast,,,,1
-Infrastructure & Utilities,Energy & Utility Management,1,Monitor energy usage,Monitor activity,Monitor action,Monitor,,,,1
-Infrastructure & Utilities,Energy & Utility Management,1,Predict upcoming breakdown of system,Predict breakdown,Predict event,Predict,,,,1
-Infrastructure & Utilities,Energy & Utility Management,1,Recommend optimal temperature settings,Recommend settings,Recommend strategy,Recommend,,,,1
-Education,Feedback Systems,1,Compare individual feedback options,Compare feedback options,Compare things,Compare,,,,1
-Education,Feedback Systems,1,Identify student answer,Identify response,Identify thing,Identify,,,,1
-Education,Feedback Systems,1,Monitor student activity,Monitor activity,Monitor event,Monitor,,,,1
-Education,Feedback Systems,1,Rate student performance,Rate performance,Rate action,Rate,,,,1
-Education,Feedback Systems,1,Recommend feedback options from pre-selected list,Recommend feedback options,Recommend feedback,Recommend,,,,1
-Education,Feedback Systems,1,Recommend grades for students to teachers,Recommend grade,Recommend feedback,Recommend,,,,1
-Risk Mitigation & Security,Fraudulent Transaction Detection,1,Detect fraudulent transactions,Detect fraud,Detect action,Detect,,,,1
-Risk Mitigation & Security,Fraudulent Transaction Detection,1,Discover new fraudulent tactics,Discover tactics,Discover events,Discover,,,,1
-Risk Mitigation & Security,Fraudulent Transaction Detection,1,Forecast impact of (future) fraudulent activity,Forecast impact of fraud,Forecast impact,Forecast,,,,1
-Professional Services,HR Chatbot,1,Compose response to user query,Compose text response,Compose response,Compose,,,,1
-Professional Services,HR Chatbot,1,Identify best conversational response,Identify response,Identify action,Identify,,,,1
-Professional Services,HR Chatbot,1,Recommend training resources,Recommend resources,Recommend strategy,Recommend,,,,1
-Healthcare,Medical Imaging Analysis,1,Detect abnormalities in medical images,Detect abnormalities,Detect anomaly,Detect,,,,1
-Healthcare,Medical Imaging Analysis,1,Identify boundaries of abnormality,Identify boundaries,Identify thing,Identify,,,,1
-Healthcare,Medical Imaging Analysis,1,Identify if it is cancer,Identify malignancy,Identify thing,Identify,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Detect signs of stress on crops,Detect stress,Detect condition,Detect,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Estimate crop yield,Estimate yield,Estimate outcome,Estimate,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Estimate crop growth,Estimate growth,Estimate action,Estimate,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Identify source of crop stress,Identify source of stress,Identify thing,Identify,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Rate soil health,Rate health,Rate characteristics,Rate,,,,1
-"Manufacturing, Production & Agriculture",Monitoring Crop Health,1,Recommend schedule for distributing resources,Recommend schedule,Recommend strategy,Recommend,,,,1
-Commerce & Sales,Personalized Advertisements,1,Rate products of interest,Rate products,Rate things,Rate,,,,1
-Commerce & Sales,Personalized Advertisements,1,Recommend new products,Recommend products,Recommend things,Recommend,,,,1
-Education,Personalized Lesson Plans,1,Detect speech patterns and language use,Detect sequential pattern,Detect thing,Detect,,,,1
-Education,Personalized Lesson Plans,1,Identify learning needs of individual students,Identify student need,Identify need,Identify,,,,1
-Education,Personalized Lesson Plans,1,Rate levels of competency of individual students,Rate competency,Rate ability,Rate,,,,1
-Education,Personalized Lesson Plans,1,Recommend lesson plans and materials,Recommend material,Recommend strategy,Recommend,,,,1
-"Manufacturing, Production & Agriculture",Predictive Maintenance,1,Estimate costs caused by breakdown,Estimate costs,Estimate impact,Estimate,,,,1
-"Manufacturing, Production & Agriculture",Predictive Maintenance,1,Estimate duration of breakdown,Estimate duration,Estimate impact,Estimate,,,,1
-"Manufacturing, Production & Agriculture",Predictive Maintenance,1,Forecast breakdown of manufacturing system,Forecast breakdown,Forecast event,Forecast,,,,1
-"Manufacturing, Production & Agriculture",Predictive Maintenance,1,Predict upcoming breakdown of system,Predict upcoming event,Predict event,Predict,,,,1
-"Manufacturing, Production & Agriculture",Predictive Maintenance,1,Recommend maintenance/repair schedule,Recommend schedule,Recommend strategy,Recommend,,,,1
-Office Productivity & Business Workflow,Predictive Text,1,Identify frequently used words/phrases,Identify words,Identify thing,Identify,,,,1
-Office Productivity & Business Workflow,Predictive Text,1,Predict next words,Predict intention,Predict action,Predict,,,,1
-Office Productivity & Business Workflow,Predictive Text,1,Recommend next words,Recommend words,Recommend action,Recommend,,,,1
-Hospitality,Review Analytics,1,Identify user sentiment,Identify emotion/intention,Identify intention,Identify,,,,1
-Hospitality,Review Analytics,1,Identify frequently used topics/keywords,Identify topics,Identify thing,Identify,,,,1
-Hospitality,Review Analytics,1,Rate frequently used topics/keywords,Rate topics,Rate thing,Rate,,,,1
-Hospitality,Review Analytics,1,Recommend changes in policy to improve reviews,Recommend changes,Recommend strategy,Recommend,,,,1
-Finance,Robotic Process Automation,1,Detecting handwriting on documents,Detect handwriting,Detect thing,Detect,,,,1
-Finance,Robotic Process Automation,1,Detect presence all necessary information on documents for processing,Detect information,Detect condition,Detect,,,,1
-Finance,Robotic Process Automation,1,Identify handwritten words,Identify handwriting,Identify thing,Identify,,,,1
-Finance,Robotic Process Automation,1,Identify key data points from documents,Identify information,Identify thing,Identify,,,,1
-Finance,Robotic Process Automation,1,Rate discrepancies on documents,Identify problems,Identify range,Identify,,,,1
-Hospitality,Smart Pricing,1,Identify popular travel times,Identify popular travel,Identify event,Identify,,,,1
-Hospitality,Smart Pricing,1,Recommend pricing for listing,Recommend prices,Recommend strategy,Recommend,,,,1
-Finance,Stock Trading Recommendations,1,Forecast market trends,Forecast trends,Forecast event,Forecast,,,,1
-Finance,Stock Trading Recommendations,1,Identify best trading times,Identify optimal time,Identify event,Identify,,,,1
-Finance,Stock Trading Recommendations,1,Predict profitable trading scenarios,Predict best case scenario,Predict thing,Predict,,,,1
-Finance,Stock Trading Recommendations,1,"Rate stock factors (k-score, momentum, value, growth, quality)",Rate factors,Rate characteristics,Rate,,,,1
-"Leisure, Content & Media",Smart Speaker Question Answering,1,Detect device activation,Detect person,Detect thing,Detect,,,,1
-"Leisure, Content & Media",Smart Speaker Question Answering,1,Detect user query,Detect query,Detect thing,Detect,,,,1
-"Leisure, Content & Media",Smart Speaker Question Answering,1,Compose response to user query,Compose text response,Compose response,Compose,,,,1
-"Leisure, Content & Media",Smart Speaker Question Answering,1,Identify best conversational response,Identify response,Identify action,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify person from text or face-image,Identify person,Identify thing,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify place-of-interest in text,Identify location of interest,Identify location,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,"Identify company, organization, or product",Identify type,Identify thing,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Detect speech (video content),Detect sequential pattern,Detect thing,Detect,,,,1
-"Leisure, Content & Media",Media Stream,1,Compose text from speech (video content),Compose text,Compose thing,Compose,,,,1
-"Leisure, Content & Media",Media Stream,1,Detect faces in a photos and videos,Detect person,Detect thing,Detect,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify person from a face-image,Identify person,Identify thing,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify the sentiment in text,Identify emotion/intention,Identify intention,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify bullying user behavior,Identify problems,Identify range,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify inappropriate content,Identify problems,Identify range,Identify,,,,1
-"Leisure, Content & Media",Media Stream,1,Identify copyright violation,Identify problems,Identify range,Identify,,,,1
-Best Route (GPS),Compare possible routes,1,,,,,,,,
-AR Item Viewing,Detect collision events of digital product and objects in space,1,,,,,,,,
-AR Item Viewing,Detect spatial characteristics and size,1,,,,11,,,,
-AR Item Viewing,Identify objects in space,1,,,,,,,,
-AR Item Viewing,Recommend best size of product in relation to space,1,,,,,,,,
-AV Lane Departure,Detect nearby cars,1,,,,,,,,
-AV Lane Departure,Detect if car is leaving lane,1,,,,,,,,
-AV Lane Departure,Detect lane boundaries,1,,,,,,,,
-AV Lane Departure,Identify position of car in lane,1,,,,,,,,
-AV Lane Departure,Identify intention of lane departure,1,,,,,,,,
-AV Lane Departure,Rate danger of lane departure,1,,,,,,,,
-Best Route (GPS),Estimate travel time,1,,,,,,,,
-Best Route (GPS),Forecast traffic congestion,1,,,,,,,,
-Best Route (GPS),Predict car location offline,1,,,,,,,,
-Best Route (GPS),Recommend best route,1,,,,,,,,
-Biometric Security,Compare features to accepted user settings,1,,,,,,,,
-Biometric Security,Detect if 3D shape is a face,1,,,,,,,,
-Biometric Security,Detect if an image has a fingerprint,1,,,,,,,,
-Biometric Security,Detect if audio contains human voice,1,,,,,,,,
-Biometric Security,Detect if image has a face,1,,,,,,,,
-Biometric Security,Identify fingerprint characteristics,1,,,,,,,,
-Biometric Security,Identify person from 3D face shape,1,,,,,,,,
-Biometric Security,Identify person from image of face,1,,,,,,,,
-Biometric Security,Identify person from their voice,1,,,,,,,,
-Candidate Screening & Recruitment,Compare candidates applying for job,1,,,,,,,,
-Candidate Screening & Recruitment,Detect if audio contains human voice,1,,,,,,,,
-Candidate Screening & Recruitment,Detect if image has a face,1,,,,,,,,
-Candidate Screening & Recruitment,Identify facial expressions,1,,,,,,,,
-Candidate Screening & Recruitment,Identify speech patterns,1,,,,,,,,
-Candidate Screening & Recruitment,Identify resume keywords,1,,,,,,,,
-Candidate Screening & Recruitment,Rate candidates applying for job,1,,,,,,,,
-Defect Detection,Detect if product has defects,1,,,,,,,,
-Defect Detection,Identify cause of defect,1,,,,,,,,
-Defect Detection,Identify location of defect,1,,,,,,,,
-Defect Detection,Identify type of defect,1,,,,,,,,
-Drug Discovery & Development,Discover usages for drug,1,,,,,,,,
-Drug Discovery & Development,Estimate drug toxicity,1,,,,,,,,
-Drug Discovery & Development,Forecast profitability of new/repurposed drug,1,,,,,,,,
-Drug Discovery & Development,Predict drug's bioactivity,1,,,,,,,,
-Drug Discovery & Development,Predict drug's physio-chemical reaction,1,,,,,,,,
-Drug Discovery & Development,Predict drug protein interaction,1,,,,,,,,
-Drug Discovery & Development,Predict drug's protein structure,1,,,,,,,,
-Drug Discovery & Development,Rate drugs on potential promise,1,,,,,,,,
-Energy & Utility Management,Forecast peak usage of utility,1,,,,,,,,
-Energy & Utility Management,Monitor energy usage,1,,,,,,,,
-Energy & Utility Management,Predict upcoming breakdown of system,1,,,,,,,,
-Energy & Utility Management,Recommend optimal temperature settings,1,,,,,,,,
-Feedback Systems,Compare individual feedback options,1,,,,,,,,
-Feedback Systems,Identify student answer,1,,,,,,,,
-Feedback Systems,Monitor student activity,1,,,,,,,,
-Feedback Systems,Rate student performance,1,,,,,,,,
-Feedback Systems,Recommend feedback options from pre-selected list,1,,,,,,,,
-Feedback Systems,Recommend grades for students to teachers,1,,,,,,,,
-Fraudulent Transaction Detection,Detect fraudulent transactions,1,,,,,,,,
-Fraudulent Transaction Detection,Discover new fraudulent tactics,1,,,,,,,,
-Fraudulent Transaction Detection,Forecast impact of (future) fraudulent activity,1,,,,,,,,
-HR Chatbot,Compose response to user query,1,,,,,,,,
-HR Chatbot,Identify best conversational response,1,,,,,,,,
-HR Chatbot,Recommend training resources,1,,,,,,,,
-Medical Imaging Analysis,Detect abnormalities in medical images,1,,,,,,,,
-Medical Imaging Analysis,Identify boundaries of abnormality,1,,,,,,,,
-Medical Imaging Analysis,Identify if it is cancer,1,,,,,,,,
-Monitoring Crop Health,Detect signs of stress on crops,1,,,,,,,,
-Monitoring Crop Health,Estimate crop yield,1,,,,,,,,
-Monitoring Crop Health,Estimate crop growth,1,,,,,,,,
-Monitoring Crop Health,Identify source of crop stress,1,,,,,,,,
-Monitoring Crop Health,Rate soil health,1,,,,,,,,
-Monitoring Crop Health,Recommend schedule for distributing resources,1,,,,,,,,
-Personalized Advertisements,Rate products of interest,1,,,,,,,,
-Personalized Advertisements,Recommend new products,1,,,,,,,,
-Personalized Lesson Plans,Detect speech patterns and language use,1,,,,,,,,
-Personalized Lesson Plans,Identify learning needs of individual students,1,,,,,,,,
-Personalized Lesson Plans,Rate levels of competency of individual students,1,,,,,,,,
-Personalized Lesson Plans,Recommend lesson plans and materials,1,,,,,,,,
-Predictive Maintenance,Estimate costs caused by breakdown,1,,,,,,,,
-Predictive Maintenance,Estimate duration of breakdown,1,,,,,,,,
-Predictive Maintenance,Forecast breakdown of manufacturing system,1,,,,,,,,
-Predictive Maintenance,Predict upcoming breakdown of system,1,,,,,,,,
-Predictive Maintenance,Recommend maintenance/repair schedule,1,,,,,,,,
-Predictive Text,Identify frequently used words/phrases,1,,,,,,,,
-Predictive Text,Predict next words,1,,,,,,,,
-Predictive Text,Recommend next words,1,,,,,,,,
-Review Analytics,Identify user sentiment,1,,,,,,,,
-Review Analytics,Identify frequently used topics/keywords,1,,,,,,,,
-Review Analytics,Rate frequently used topics/keywords,1,,,,,,,,
-Review Analytics,Recommend changes in policy to improve reviews,1,,,,,,,,
-Robotic Process Automation,Detecting handwriting on documents,1,,,,,,,,
-Robotic Process Automation,Detect presence all necessary information on documents for processing,1,,,,,,,,
-Robotic Process Automation,Identify handwritten words,1,,,,,,,,
-Robotic Process Automation,Identify key data points from documents,1,,,,,,,,
-Robotic Process Automation,Rate discrepancies on documents,1,,,,,,,,
-Smart Pricing,Identify popular travel times,1,,,,,,,,
-Smart Pricing,Recommend pricing for listing,1,,,,,,,,
-Stock Trading Recommendations,Forecast market trends,1,,,,,,,,
-Stock Trading Recommendations,Identify best trading times,1,,,,,,,,
-Stock Trading Recommendations,Predict profitable trading scenarios,1,,,,,,,,
-Stock Trading Recommendations,Rate stock factors,1,,,,,,,,
-Smart Speaker Question Answering,Detect device activation,1,,,,,,,,
-Smart Speaker Question Answering,Detect user query,1,,,,,,,,
-Smart Speaker Question Answering,Compose response to user query,1,,,,,,,,
-Smart Speaker Question Answering,Identify best conversational response,1,,,,,,,,
-Media Stream,Identify person from text or face-image,1,,,,,,,,
-Media Stream,Identify place-of-interest in text,1,,,,,,,,
-Media Stream,Identify co/org/product,1,,,,,,,,
-Media Stream,Detect speech (video content),1,,,,,,,,
-Media Stream,Compose text from speech (video content),1,,,,,,,,
-Media Stream,Detect faces in a photos and videos,1,,,,,,,,
-Media Stream,Identify person from a face-image,1,,,,,,,,
-Media Stream,Identify the sentiment in text,1,,,,,,,,
-Media Stream,Identify bullying user behavior,1,,,,,,,,
-Media Stream,Identify inappropriate content,1,,,,,,,,
-Media Stream,Identify copyright violation,1,,,,,,,,
-Compare possible routes,Compare routes,1,,,,,,,,
-Detect collision events of digital product and objects in space,Detect collision of objects,1,,,,,,,,
-Detect spatial characteristics and size,Detect space,1,,,,,,,,
-Identify objects in space,Identify surrounding objects,1,,,,,,,,
-Recommend best size of product in relation to space,Recommend size,1,,,,,,,,
-Detect nearby cars,Detect cars,1,,,,,,,,
-Detect if car is leaving lane,Detect departure,1,,,,,,,,
-Detect lane boundaries,Detect lane,1,,,,,,,,
-Identify position of car in lane,Identify car position,1,,,,,,,,
-Identify intention of lane departure,Identify intention of departure,1,,,,,,,,
-Rate danger of lane departure,Rate danger,1,,,,,,,,
-Estimate travel time,Estimate duration,1,,,,,,,,
-Forecast traffic congestion,Forecast congestion,1,,,,,,,,
-Predict car location offline,Predict car location,1,,,,,,,,
-Recommend best route,Recommend route,1,,,,,,,,
-Compare features to accepted user settings,Compare features,1,,,,,,,,
-Detect if 3D shape is a face,Detect person,1,,,,,,,,
-Detect if an image has a fingerprint,Detect person,1,,,,,,,,
-Detect if audio contains human voice,Detect person,1,,,,,,,,
-Detect if image has a face,Detect person,1,,,,,,,,
-Identify fingerprint characteristics,Identify person,1,,,,,,,,
-Identify person from 3D face shape,Identify person,1,,,,,,,,
-Identify person from image of face,Identify person,1,,,,,,,,
-Identify person from their voice,Identify person,1,,,,,,,,
-Compare candidates applying for job,Compare candidates,1,,,,,,,,
-Detect if audio contains human voice,Detect person,1,,,,,,,,
-Detect if image has a face,Detect person,1,,,,,,,,
-Identify facial expressions,Identify emotion/intention,1,,,,,,,,
-Identify speech patterns,Identify sequential pattern,1,,,,,,,,
-Identify resume keywords,Identify words,1,,,,,,,,
-Rate candidates applying for job,Rate candidates,1,,,,,,,,
-Detect if product has defects,Detect abnormalities,1,,,,,,,,
-Identify cause of defect,Identify cause of anomaly,1,,,,,,,,
-Identify location of defect,Identify location of anomaly,1,,,,,,,,
-Identify type of defect,Identify type,1,,,,,,,,
-Discover usages for drug,Discover usage,1,,,,,,,,
-Estimate drug toxicity,Estimate toxicity,1,,,,,,,,
-Forecast profitability of new/repurposed drug,Forecast profit,1,,,,,,,,
-Predict drug's bioactivity,Predict bioactivity,1,,,,,,,,
-Predict drug's physio-chemical reaction,Predict physio-chemical reaction,1,,,,,,,,
-Predict drug protein interaction,Predict protein interaction,1,,,,,,,,
-Predict drug's protein structure,Predict protein structure,1,,,,,,,,
-Rate drugs on potential promise,Rate usefulness,1,,,,,,,,
-Forecast peak usage of utility,Forecast peak event,1,,,,,,,,
-Monitor energy usage,Monitor activity,1,,,,,,,,
-Predict upcoming breakdown of system,Predict breakdown,1,,,,,,,,
-Recommend optimal temperature settings,Recommend settings,1,,,,,,,,
-Compare individual feedback options,Compare feedback options,1,,,,,,,,
-Identify student answer,Identify response,1,,,,,,,,
-Monitor student activity,Monitor activity,1,,,,,,,,
-Rate student performance,Rate performance,1,,,,,,,,
-Recommend feedback options from pre-selected list,Recommend feedback options,1,,,,,,,,
-Recommend grades for students to teachers,Recommend grade,1,,,,,,,,
-Detect fraudulent transactions,Detect fraud,1,,,,,,,,
-Discover new fraudulent tactics,Discover tactics,1,,,,,,,,
-Forecast impact of (future) fraudulent activity,Forecast impact of fraud,1,,,,,,,,
-Compose response to user query,Compose text response,1,,,,,,,,
-Identify best conversational response,Identify response,1,,,,,,,,
-Recommend training resources,Recommend resources,1,,,,,,,,
-Detect abnormalities in medical images,Detect abnormalities,1,,,,,,,,
-Identify boundaries of abnormality,Identify boundaries,1,,,,,,,,
-Identify if it is cancer,Identify malignancy,1,,,,,,,,
-Detect signs of stress on crops,Detect stress,1,,,,,,,,
-Estimate crop yield,Estimate yield,1,,,,,,,,
-Estimate crop growth,Estimate growth,1,,,,,,,,
-Identify source of crop stress,Identify source of stress,1,,,,,,,,
-Rate soil health,Rate health,1,,,,,,,,
-Recommend schedule for distributing resources,Recommend schedule,1,,,,,,,,
-Rate products of interest,Rate products,1,,,,,,,,
-Recommend new products,Recommend products,1,,,,,,,,
-Detect speech patterns and language use,Detect sequential pattern,1,,,,,,,,
-Identify learning needs of individual students,Identify student need,1,,,,,,,,
-Rate levels of competency of individual students,Rate competency,1,,,,,,,,
-Recommend lesson plans and materials,Recommend material,1,,,,,,,,
-Estimate costs caused by breakdown,Estimate costs,1,,,,,,,,
-Estimate duration of breakdown,Estimate duration,1,,,,,,,,
-Forecast breakdown of manufacturing system,Forecast breakdown,1,,,,,,,,
-Predict upcoming breakdown of system,Predict upcoming event,1,,,,,,,,
-Recommend maintenance/repair schedule,Recommend schedule,1,,,,,,,,
-Identify frequently used words/phrases,Identify words,1,,,,,,,,
-Predict next words,Predict intention,1,,,,,,,,
-Recommend next words,Recommend words,1,,,,,,,,
-Identify user sentiment,Identify emotion/intention,1,,,,,,,,
-Identify frequently used topics/keywords,Identify topics,1,,,,,,,,
-Rate frequently used topics/keywords,Rate topics,1,,,,,,,,
-Recommend changes in policy to improve reviews,Recommend changes,1,,,,,,,,
-Detecting handwriting on documents,Detect handwriting,1,,,,,,,,
-Detect presence all necessary information on documents for processing,Detect information,1,,,,,,,,
-Identify handwritten words,Identify handwriting,1,,,,,,,,
-Identify key data points from documents,Identify information,1,,,,,,,,
-Rate discrepancies on documents,Identify problems,1,,,,,,,,
-Identify popular travel times,Identify popular travel,1,,,,,,,,
-Recommend pricing for listing,Recommend prices,1,,,,,,,,
-Forecast market trends,Forecast trends,1,,,,,,,,
-Identify best trading times,Identify optimal time,1,,,,,,,,
-Predict profitable trading scenarios,Predict best case scenario,1,,,,,,,,
-Rate stock factors,Rate factors,1,,,,,,,,
-Detect device activation,Detect person,1,,,,,,,,
-Detect user query,Detect query,1,,,,,,,,
-Compose response to user query,Compose text response,1,,,,,,,,
-Identify best conversational response,Identify response,1,,,,,,,,
-Identify person from text or face-image,Identify person,1,,,,,,,,
-Identify place-of-interest in text,Identify location of interest,1,,,,,,,,
-Identify co/org/product,Identify type,1,,,,,,,,
-Detect speech (video content),Detect sequential pattern,1,,,,,,,,
-Compose text from speech (video content),Compose text,1,,,,,,,,
-Detect faces in a photos and videos,Detect person,1,,,,,,,,
-Identify person from a face-image,Identify person,1,,,,,,,,
-Identify the sentiment in text,Identify emotion/intention,1,,,,,,,,
-Identify bullying user behavior,Identify problems,1,,,,,,,,
-Identify inappropriate content,Identify problems,1,,,,,,,,
-Identify copyright violation,Identify problems,1,,,,,,,,
-Compare routes,Compare actions,1,,,,,,,,
-Detect collision of objects,Detect event,1,,,,,,,,
-Detect space,Detect thing,1,,,,,,,,
-Identify surrounding objects,Identify thing,1,,,,,,,,
-Recommend size,Recommend strategy,1,,,,,,,,
-Detect cars,Detect thing,1,,,,,,,,
-Detect departure,Detect action,1,,,,,,,,
-Detect lane,Detect thing,1,,,,,,,,
-Identify car position,Identify location,1,,,,,,,,
-Identify intention of departure,Identify action,1,,,,,,,,
-Rate danger,Rate range,1,,,,,,,,
-Estimate duration,Estimate event,1,,,,,,,,
-Forecast congestion,Forecast event,1,,,,,,,,
-Predict car location,Predict location,1,,,,,,,,
-Recommend route,Recommend action,1,,,,,,,,
-Compare features,Compare things,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Compare candidates,Compare things,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Identify emotion/intention,Identify thing,1,,,,,,,,
-Identify sequential pattern,Identify thing,1,,,,,,,,
-Identify words,Identify thing,1,,,,,,,,
-Rate candidates,Rate things,1,,,,,,,,
-Detect abnormalities,Detect condition,1,,,,,,,,
-Identify cause of anomaly,Identify cause,1,,,,,,,,
-Identify location of anomaly,Identify location,1,,,,,,,,
-Identify type,Identify thing,1,,,,,,,,
-Discover usage,Discover action,1,,,,,,,,
-Estimate toxicity,Estimate range,1,,,,,,,,
-Forecast profit,Forecast outcome,1,,,,,,,,
-Predict bioactivity,Predict action,1,,,,,,,,
-Predict physio-chemical reaction,Predict action,1,,,,,,,,
-Predict protein interaction,Predict action,1,,,,,,,,
-Predict protein structure,Predict thing,1,,,,,,,,
-Rate usefulness,Rate outcome,1,,,,,,,,
-Forecast peak event,Forecast event,1,,,,,,,,
-Monitor activity,Monitor action,1,,,,,,,,
-Predict breakdown,Predict event,1,,,,,,,,
-Recommend settings,Recommend strategy,1,,,,,,,,
-Compare feedback options,Compare things,1,,,,,,,,
-Identify response,Identify thing,1,,,,,,,,
-Monitor activity,Monitor event,1,,,,,,,,
-Rate performance,Rate action,1,,,,,,,,
-Recommend feedback options,Recommend feedback,1,,,,,,,,
-Recommend grade,Recommend feedback,1,,,,,,,,
-Detect fraud,Detect action,1,,,,,,,,
-Discover tactics,Discover events,1,,,,,,,,
-Forecast impact of fraud,Forecast impact,1,,,,,,,,
-Compose text response,Compose response,1,,,,,,,,
-Identify response,Identify action,1,,,,,,,,
-Recommend resources,Recommend strategy,1,,,,,,,,
-Detect abnormalities,Detect anomaly,1,,,,,,,,
-Identify boundaries,Identify thing,1,,,,,,,,
-Identify malignancy,Identify thing,1,,,,,,,,
-Detect stress,Detect condition,1,,,,,,,,
-Estimate yield,Estimate outcome,1,,,,,,,,
-Estimate growth,Estimate action,1,,,,,,,,
-Identify source of stress,Identify thing,1,,,,,,,,
-Rate health,Rate characteristics,1,,,,,,,,
-Recommend schedule,Recommend strategy,1,,,,,,,,
-Rate products,Rate things,1,,,,,,,,
-Recommend products,Recommend things,1,,,,,,,,
-Detect sequential pattern,Detect thing,1,,,,,,,,
-Identify student need,Identify need,1,,,,,,,,
-Rate competency,Rate ability,1,,,,,,,,
-Recommend material,Recommend strategy,1,,,,,,,,
-Estimate costs,Estimate impact,1,,,,,,,,
-Estimate duration,Estimate impact,1,,,,,,,,
-Forecast breakdown,Forecast event,1,,,,,,,,
-Predict upcoming event,Predict event,1,,,,,,,,
-Recommend schedule,Recommend strategy,1,,,,,,,,
-Identify words,Identify thing,1,,,,,,,,
-Predict intention,Predict action,1,,,,,,,,
-Recommend words,Recommend action,1,,,,,,,,
-Identify emotion/intention,Identify intention,1,,,,,,,,
-Identify topics,Identify thing,1,,,,,,,,
-Rate topics,Rate thing,1,,,,,,,,
-Recommend changes,Recommend strategy,1,,,,,,,,
-Detect handwriting,Detect thing,1,,,,,,,,
-Detect information,Detect condition,1,,,,,,,,
-Identify handwriting,Identify thing,1,,,,,,,,
-Identify information,Identify thing,1,,,,,,,,
-Identify problems,Identify range,1,,,,,,,,
-Identify popular travel,Identify event,1,,,,,,,,
-Recommend prices,Recommend strategy,1,,,,,,,,
-Forecast trends,Forecast event,1,,,,,,,,
-Identify optimal time,Identify event,1,,,,,,,,
-Predict best case scenario,Predict thing,1,,,,,,,,
-Rate factors,Rate characteristics,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Detect query,Detect thing,1,,,,,,,,
-Compose text response,Compose response,1,,,,,,,,
-Identify response,Identify action,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Identify location of interest,Identify location,1,,,,,,,,
-Identify type,Identify thing,1,,,,,,,,
-Detect sequential pattern,Detect thing,1,,,,,,,,
-Compose text,Compose thing,1,,,,,,,,
-Detect person,Detect thing,1,,,,,,,,
-Identify person,Identify thing,1,,,,,,,,
-Identify emotion/intention,Identify intention,1,,,,,,,,
-Identify problems,Identify range,1,,,,,,,,
-Identify problems,Identify range,1,,,,,,,,
-Identify problems,Identify range,1,,,,,,,,
-Compare actions,Compare,1,,,,,,,,
-Detect event,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect action,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify location,Identify,1,,,,,,,,
-Identify action,Identify,1,,,,,,,,
-Rate range,Rate,1,,,,,,,,
-Estimate event,Estimate,1,,,,,,,,
-Forecast event,Forecast,1,,,,,,,,
-Predict location,Predict,1,,,,,,,,
-Recommend action,Recommend,1,,,,,,,,
-Compare things,Compare,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Compare things,Compare,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Rate things,Rate,1,,,,,,,,
-Detect condition,Detect,1,,,,,,,,
-Identify cause,Identify,1,,,,,,,,
-Identify location,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Discover action,Discover,1,,,,,,,,
-Estimate range,Estimate,1,,,,,,,,
-Forecast outcome,Forecast,1,,,,,,,,
-Predict action,Predict,1,,,,,,,,
-Predict action,Predict,1,,,,,,,,
-Predict action,Predict,1,,,,,,,,
-Predict thing,Predict,1,,,,,,,,
-Rate outcome,Rate,1,,,,,,,,
-Forecast event,Forecast,1,,,,,,,,
-Monitor action,Monitor,1,,,,,,,,
-Predict event,Predict,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Compare things,Compare,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Monitor event,Monitor,1,,,,,,,,
-Rate action,Rate,1,,,,,,,,
-Recommend feedback,Recommend,1,,,,,,,,
-Recommend feedback,Recommend,1,,,,,,,,
-Detect action,Detect,1,,,,,,,,
-Discover events,Discover,1,,,,,,,,
-Forecast impact,Forecast,1,,,,,,,,
-Compose response,Compose,1,,,,,,,,
-Identify action,Identify,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Detect anomaly,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Detect condition,Detect,1,,,,,,,,
-Estimate outcome,Estimate,1,,,,,,,,
-Estimate action,Estimate,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Rate characteristics,Rate,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Rate things,Rate,1,,,,,,,,
-Recommend things,Recommend,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify need,Identify,1,,,,,,,,
-Rate ability,Rate,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Estimate impact,Estimate,1,,,,,,,,
-Estimate impact,Estimate,1,,,,,,,,
-Forecast event,Forecast,1,,,,,,,,
-Predict event,Predict,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Predict action,Predict,1,,,,,,,,
-Recommend action,Recommend,1,,,,,,,,
-Identify intention,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Rate thing,Rate,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect condition,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify range,Identify,1,,,,,,,,
-Identify event,Identify,1,,,,,,,,
-Recommend strategy,Recommend,1,,,,,,,,
-Forecast event,Forecast,1,,,,,,,,
-Identify event,Identify,1,,,,,,,,
-Predict thing,Predict,1,,,,,,,,
-Rate characteristics,Rate,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Compose response,Compose,1,,,,,,,,
-Identify action,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify location,Identify,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Compose thing,Compose,1,,,,,,,,
-Detect thing,Detect,1,,,,,,,,
-Identify thing,Identify,1,,,,,,,,
-Identify intention,Identify,1,,,,,,,,
-Identify range,Identify,1,,,,,,,,
-Identify range,Identify,1,,,,,,,,
-Identify range,Identify,1,,,,,,,,
+Col1,Col2,Value
+Transportation,Best Route (GPS),1
+Commerce & Sales,AR Item Viewing,1
+Commerce & Sales,AR Item Viewing,1
+Commerce & Sales,AR Item Viewing,1
+Commerce & Sales,AR Item Viewing,1
+Transportation,AV Lane Departure,1
+Transportation,AV Lane Departure,1
+Transportation,AV Lane Departure,1
+Transportation,AV Lane Departure,1
+Transportation,AV Lane Departure,1
+Transportation,AV Lane Departure,1
+Transportation,Best Route (GPS),1
+Transportation,Best Route (GPS),1
+Transportation,Best Route (GPS),1
+Transportation,Best Route (GPS),1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Risk Mitigation & Security,Biometric Security,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+Professional Services,Candidate Screening & Recruitment,1
+"Manufacturing, Production & Agriculture",Defect Detection,1
+"Manufacturing, Production & Agriculture",Defect Detection,1
+"Manufacturing, Production & Agriculture",Defect Detection,1
+"Manufacturing, Production & Agriculture",Defect Detection,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Healthcare,Drug Discovery & Development,1
+Infrastructure & Utilities,Energy & Utility Management,1
+Infrastructure & Utilities,Energy & Utility Management,1
+Infrastructure & Utilities,Energy & Utility Management,1
+Infrastructure & Utilities,Energy & Utility Management,1
+Education,Feedback Systems,1
+Education,Feedback Systems,1
+Education,Feedback Systems,1
+Education,Feedback Systems,1
+Education,Feedback Systems,1
+Education,Feedback Systems,1
+Risk Mitigation & Security,Fraudulent Transaction Detection,1
+Risk Mitigation & Security,Fraudulent Transaction Detection,1
+Risk Mitigation & Security,Fraudulent Transaction Detection,1
+Professional Services,HR Chatbot,1
+Professional Services,HR Chatbot,1
+Professional Services,HR Chatbot,1
+Healthcare,Medical Imaging Analysis,1
+Healthcare,Medical Imaging Analysis,1
+Healthcare,Medical Imaging Analysis,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+"Manufacturing, Production & Agriculture",Monitoring Crop Health,1
+Commerce & Sales,Personalized Advertisements,1
+Commerce & Sales,Personalized Advertisements,1
+Education,Personalized Lesson Plans,1
+Education,Personalized Lesson Plans,1
+Education,Personalized Lesson Plans,1
+Education,Personalized Lesson Plans,1
+"Manufacturing, Production & Agriculture",Predictive Maintenance,1
+"Manufacturing, Production & Agriculture",Predictive Maintenance,1
+"Manufacturing, Production & Agriculture",Predictive Maintenance,1
+"Manufacturing, Production & Agriculture",Predictive Maintenance,1
+"Manufacturing, Production & Agriculture",Predictive Maintenance,1
+Office Productivity & Business Workflow,Predictive Text,1
+Office Productivity & Business Workflow,Predictive Text,1
+Office Productivity & Business Workflow,Predictive Text,1
+Hospitality,Review Analytics,1
+Hospitality,Review Analytics,1
+Hospitality,Review Analytics,1
+Hospitality,Review Analytics,1
+Finance,Robotic Process Automation,1
+Finance,Robotic Process Automation,1
+Finance,Robotic Process Automation,1
+Finance,Robotic Process Automation,1
+Finance,Robotic Process Automation,1
+Hospitality,Smart Pricing,1
+Hospitality,Smart Pricing,1
+Finance,Stock Trading Recommendations,1
+Finance,Stock Trading Recommendations,1
+Finance,Stock Trading Recommendations,1
+Finance,Stock Trading Recommendations,1
+"Leisure, Content & Media",Smart Speaker Question Answering,1
+"Leisure, Content & Media",Smart Speaker Question Answering,1
+"Leisure, Content & Media",Smart Speaker Question Answering,1
+"Leisure, Content & Media",Smart Speaker Question Answering,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+"Leisure, Content & Media",Media Stream,1
+Best Route (GPS),Compare possible routes,1
+AR Item Viewing,Detect collision events of digital product and objects in space,1
+AR Item Viewing,Detect spatial characteristics and size,1
+AR Item Viewing,Identify objects in space,1
+AR Item Viewing,Recommend best size of product in relation to space,1
+AV Lane Departure,Detect nearby cars,1
+AV Lane Departure,Detect if car is leaving lane,1
+AV Lane Departure,Detect lane boundaries,1
+AV Lane Departure,Identify position of car in lane,1
+AV Lane Departure,Identify intention of lane departure,1
+AV Lane Departure,Rate danger of lane departure,1
+Best Route (GPS),Estimate travel time,1
+Best Route (GPS),Forecast traffic congestion,1
+Best Route (GPS),Predict car location offline,1
+Best Route (GPS),Recommend best route,1
+Biometric Security,Compare features to accepted user settings,1
+Biometric Security,Detect if 3D shape is a face,1
+Biometric Security,Detect if an image has a fingerprint,1
+Biometric Security,Detect if audio contains human voice,1
+Biometric Security,Detect if image has a face,1
+Biometric Security,Identify fingerprint characteristics,1
+Biometric Security,Identify person from 3D face shape,1
+Biometric Security,Identify person from image of face,1
+Biometric Security,Identify person from their voice,1
+Candidate Screening & Recruitment,Compare candidates applying for job,1
+Candidate Screening & Recruitment,Detect if audio contains human voice,1
+Candidate Screening & Recruitment,Detect if image has a face,1
+Candidate Screening & Recruitment,Identify facial expressions,1
+Candidate Screening & Recruitment,Identify speech patterns,1
+Candidate Screening & Recruitment,Identify resume keywords,1
+Candidate Screening & Recruitment,Rate candidates applying for job,1
+Defect Detection,Detect if product has defects,1
+Defect Detection,Identify cause of defect,1
+Defect Detection,Identify location of defect,1
+Defect Detection,Identify type of defect,1
+Drug Discovery & Development,Discover usages for drug,1
+Drug Discovery & Development,Estimate drug toxicity,1
+Drug Discovery & Development,Forecast profitability of new/repurposed drug,1
+Drug Discovery & Development,Predict drug's bioactivity,1
+Drug Discovery & Development,Predict drug's physio-chemical reaction,1
+Drug Discovery & Development,Predict drug protein interaction,1
+Drug Discovery & Development,Predict drug's protein structure,1
+Drug Discovery & Development,Rate drugs on potential promise,1
+Energy & Utility Management,Forecast peak usage of utility,1
+Energy & Utility Management,Monitor energy usage,1
+Energy & Utility Management,Predict upcoming breakdown of system,1
+Energy & Utility Management,Recommend optimal temperature settings,1
+Feedback Systems,Compare individual feedback options,1
+Feedback Systems,Identify student answer,1
+Feedback Systems,Monitor student activity,1
+Feedback Systems,Rate student performance,1
+Feedback Systems,Recommend feedback options from pre-selected list,1
+Feedback Systems,Recommend grades for students to teachers,1
+Fraudulent Transaction Detection,Detect fraudulent transactions,1
+Fraudulent Transaction Detection,Discover new fraudulent tactics,1
+Fraudulent Transaction Detection,Forecast impact of (future) fraudulent activity,1
+HR Chatbot,Compose response to user query,1
+HR Chatbot,Identify best conversational response,1
+HR Chatbot,Recommend training resources,1
+Medical Imaging Analysis,Detect abnormalities in medical images,1
+Medical Imaging Analysis,Identify boundaries of abnormality,1
+Medical Imaging Analysis,Identify if it is cancer,1
+Monitoring Crop Health,Detect signs of stress on crops,1
+Monitoring Crop Health,Estimate crop yield,1
+Monitoring Crop Health,Estimate crop growth,1
+Monitoring Crop Health,Identify source of crop stress,1
+Monitoring Crop Health,Rate soil health,1
+Monitoring Crop Health,Recommend schedule for distributing resources,1
+Personalized Advertisements,Rate products of interest,1
+Personalized Advertisements,Recommend new products,1
+Personalized Lesson Plans,Detect speech patterns and language use,1
+Personalized Lesson Plans,Identify learning needs of individual students,1
+Personalized Lesson Plans,Rate levels of competency of individual students,1
+Personalized Lesson Plans,Recommend lesson plans and materials,1
+Predictive Maintenance,Estimate costs caused by breakdown,1
+Predictive Maintenance,Estimate duration of breakdown,1
+Predictive Maintenance,Forecast breakdown of manufacturing system,1
+Predictive Maintenance,Predict upcoming breakdown of system,1
+Predictive Maintenance,Recommend maintenance/repair schedule,1
+Predictive Text,Identify frequently used words/phrases,1
+Predictive Text,Predict next words,1
+Predictive Text,Recommend next words,1
+Review Analytics,Identify user sentiment,1
+Review Analytics,Identify frequently used topics/keywords,1
+Review Analytics,Rate frequently used topics/keywords,1
+Review Analytics,Recommend changes in policy to improve reviews,1
+Robotic Process Automation,Detecting handwriting on documents,1
+Robotic Process Automation,Detect presence all necessary information on documents for processing,1
+Robotic Process Automation,Identify handwritten words,1
+Robotic Process Automation,Identify key data points from documents,1
+Robotic Process Automation,Rate discrepancies on documents,1
+Smart Pricing,Identify popular travel times,1
+Smart Pricing,Recommend pricing for listing,1
+Stock Trading Recommendations,Forecast market trends,1
+Stock Trading Recommendations,Identify best trading times,1
+Stock Trading Recommendations,Predict profitable trading scenarios,1
+Stock Trading Recommendations,Rate stock factors,1
+Smart Speaker Question Answering,Detect device activation,1
+Smart Speaker Question Answering,Detect user query,1
+Smart Speaker Question Answering,Compose response to user query,1
+Smart Speaker Question Answering,Identify best conversational response,1
+Media Stream,Identify person from text or face-image,1
+Media Stream,Identify place-of-interest in text,1
+Media Stream,Identify co/org/product,1
+Media Stream,Detect speech (video content),1
+Media Stream,Compose text from speech (video content),1
+Media Stream,Detect faces in a photos and videos,1
+Media Stream,Identify person from a face-image,1
+Media Stream,Identify the sentiment in text,1
+Media Stream,Identify bullying user behavior,1
+Media Stream,Identify inappropriate content,1
+Media Stream,Identify copyright violation,1
+Compare possible routes,Compare routes,1
+Detect collision events of digital product and objects in space,Detect collision of objects,1
+Detect spatial characteristics and size,Detect space,1
+Identify objects in space,Identify surrounding objects,1
+Recommend best size of product in relation to space,Recommend size,1
+Detect nearby cars,Detect cars,1
+Detect if car is leaving lane,Detect departure,1
+Detect lane boundaries,Detect lane,1
+Identify position of car in lane,Identify car position,1
+Identify intention of lane departure,Identify intention of departure,1
+Rate danger of lane departure,Rate danger,1
+Estimate travel time,Estimate duration,1
+Forecast traffic congestion,Forecast congestion,1
+Predict car location offline,Predict car location,1
+Recommend best route,Recommend route,1
+Compare features to accepted user settings,Compare features,1
+Detect if 3D shape is a face,Detect person,1
+Detect if an image has a fingerprint,Detect person,1
+Detect if audio contains human voice,Detect person,1
+Detect if image has a face,Detect person,1
+Identify fingerprint characteristics,Identify person,1
+Identify person from 3D face shape,Identify person,1
+Identify person from image of face,Identify person,1
+Identify person from their voice,Identify person,1
+Compare candidates applying for job,Compare candidates,1
+Detect if audio contains human voice,Detect person,1
+Detect if image has a face,Detect person,1
+Identify facial expressions,Identify emotion/intention,1
+Identify speech patterns,Identify sequential pattern,1
+Identify resume keywords,Identify words,1
+Rate candidates applying for job,Rate candidates,1
+Detect if product has defects,Detect abnormalities,1
+Identify cause of defect,Identify cause of anomaly,1
+Identify location of defect,Identify location of anomaly,1
+Identify type of defect,Identify type,1
+Discover usages for drug,Discover usage,1
+Estimate drug toxicity,Estimate toxicity,1
+Forecast profitability of new/repurposed drug,Forecast profit,1
+Predict drug's bioactivity,Predict bioactivity,1
+Predict drug's physio-chemical reaction,Predict physio-chemical reaction,1
+Predict drug protein interaction,Predict protein interaction,1
+Predict drug's protein structure,Predict protein structure,1
+Rate drugs on potential promise,Rate usefulness,1
+Forecast peak usage of utility,Forecast peak event,1
+Monitor energy usage,Monitor activity,1
+Predict upcoming breakdown of system,Predict breakdown,1
+Recommend optimal temperature settings,Recommend settings,1
+Compare individual feedback options,Compare feedback options,1
+Identify student answer,Identify response,1
+Monitor student activity,Monitor activity,1
+Rate student performance,Rate performance,1
+Recommend feedback options from pre-selected list,Recommend feedback options,1
+Recommend grades for students to teachers,Recommend grade,1
+Detect fraudulent transactions,Detect fraud,1
+Discover new fraudulent tactics,Discover tactics,1
+Forecast impact of (future) fraudulent activity,Forecast impact of fraud,1
+Compose response to user query,Compose text response,1
+Identify best conversational response,Identify response,1
+Recommend training resources,Recommend resources,1
+Detect abnormalities in medical images,Detect abnormalities,1
+Identify boundaries of abnormality,Identify boundaries,1
+Identify if it is cancer,Identify malignancy,1
+Detect signs of stress on crops,Detect stress,1
+Estimate crop yield,Estimate yield,1
+Estimate crop growth,Estimate growth,1
+Identify source of crop stress,Identify source of stress,1
+Rate soil health,Rate health,1
+Recommend schedule for distributing resources,Recommend schedule,1
+Rate products of interest,Rate products,1
+Recommend new products,Recommend products,1
+Detect speech patterns and language use,Detect sequential pattern,1
+Identify learning needs of individual students,Identify student need,1
+Rate levels of competency of individual students,Rate competency,1
+Recommend lesson plans and materials,Recommend material,1
+Estimate costs caused by breakdown,Estimate costs,1
+Estimate duration of breakdown,Estimate duration,1
+Forecast breakdown of manufacturing system,Forecast breakdown,1
+Predict upcoming breakdown of system,Predict upcoming event,1
+Recommend maintenance/repair schedule,Recommend schedule,1
+Identify frequently used words/phrases,Identify words,1
+Predict next words,Predict intention,1
+Recommend next words,Recommend words,1
+Identify user sentiment,Identify emotion/intention,1
+Identify frequently used topics/keywords,Identify topics,1
+Rate frequently used topics/keywords,Rate topics,1
+Recommend changes in policy to improve reviews,Recommend changes,1
+Detecting handwriting on documents,Detect handwriting,1
+Detect presence all necessary information on documents for processing,Detect information,1
+Identify handwritten words,Identify handwriting,1
+Identify key data points from documents,Identify information,1
+Rate discrepancies on documents,Identify problems,1
+Identify popular travel times,Identify popular travel,1
+Recommend pricing for listing,Recommend prices,1
+Forecast market trends,Forecast trends,1
+Identify best trading times,Identify optimal time,1
+Predict profitable trading scenarios,Predict best case scenario,1
+Rate stock factors,Rate factors,1
+Detect device activation,Detect person,1
+Detect user query,Detect query,1
+Compose response to user query,Compose text response,1
+Identify best conversational response,Identify response,1
+Identify person from text or face-image,Identify person,1
+Identify place-of-interest in text,Identify location of interest,1
+Identify co/org/product,Identify type,1
+Detect speech (video content),Detect sequential pattern,1
+Compose text from speech (video content),Compose text,1
+Detect faces in a photos and videos,Detect person,1
+Identify person from a face-image,Identify person,1
+Identify the sentiment in text,Identify emotion/intention,1
+Identify bullying user behavior,Identify problems,1
+Identify inappropriate content,Identify problems,1
+Identify copyright violation,Identify problems,1
+Compare routes,Compare actions,1
+Detect collision of objects,Detect event,1
+Detect space,Detect thing,1
+Identify surrounding objects,Identify thing,1
+Recommend size,Recommend strategy,1
+Detect cars,Detect thing,1
+Detect departure,Detect action,1
+Detect lane,Detect thing,1
+Identify car position,Identify location,1
+Identify intention of departure,Identify action,1
+Rate danger,Rate range,1
+Estimate duration,Estimate event,1
+Forecast congestion,Forecast event,1
+Predict car location,Predict location,1
+Recommend route,Recommend action,1
+Compare features,Compare things,1
+Detect person,Detect thing,1
+Detect person,Detect thing,1
+Detect person,Detect thing,1
+Detect person,Detect thing,1
+Identify person,Identify thing,1
+Identify person,Identify thing,1
+Identify person,Identify thing,1
+Identify person,Identify thing,1
+Compare candidates,Compare things,1
+Detect person,Detect thing,1
+Detect person,Detect thing,1
+Identify emotion/intention,Identify thing,1
+Identify sequential pattern,Identify thing,1
+Identify words,Identify thing,1
+Rate candidates,Rate things,1
+Detect abnormalities,Detect condition,1
+Identify cause of anomaly,Identify cause,1
+Identify location of anomaly,Identify location,1
+Identify type,Identify thing,1
+Discover usage,Discover action,1
+Estimate toxicity,Estimate range,1
+Forecast profit,Forecast outcome,1
+Predict bioactivity,Predict action,1
+Predict physio-chemical reaction,Predict action,1
+Predict protein interaction,Predict action,1
+Predict protein structure,Predict thing,1
+Rate usefulness,Rate outcome,1
+Forecast peak event,Forecast event,1
+Monitor activity,Monitor action,1
+Predict breakdown,Predict event,1
+Recommend settings,Recommend strategy,1
+Compare feedback options,Compare things,1
+Identify response,Identify thing,1
+Monitor activity,Monitor event,1
+Rate performance,Rate action,1
+Recommend feedback options,Recommend feedback,1
+Recommend grade,Recommend feedback,1
+Detect fraud,Detect action,1
+Discover tactics,Discover events,1
+Forecast impact of fraud,Forecast impact,1
+Compose text response,Compose response,1
+Identify response,Identify action,1
+Recommend resources,Recommend strategy,1
+Detect abnormalities,Detect anomaly,1
+Identify boundaries,Identify thing,1
+Identify malignancy,Identify thing,1
+Detect stress,Detect condition,1
+Estimate yield,Estimate outcome,1
+Estimate growth,Estimate action,1
+Identify source of stress,Identify thing,1
+Rate health,Rate characteristics,1
+Recommend schedule,Recommend strategy,1
+Rate products,Rate things,1
+Recommend products,Recommend things,1
+Detect sequential pattern,Detect thing,1
+Identify student need,Identify need,1
+Rate competency,Rate ability,1
+Recommend material,Recommend strategy,1
+Estimate costs,Estimate impact,1
+Estimate duration,Estimate impact,1
+Forecast breakdown,Forecast event,1
+Predict upcoming event,Predict event,1
+Recommend schedule,Recommend strategy,1
+Identify words,Identify thing,1
+Predict intention,Predict action,1
+Recommend words,Recommend action,1
+Identify emotion/intention,Identify intention,1
+Identify topics,Identify thing,1
+Rate topics,Rate thing,1
+Recommend changes,Recommend strategy,1
+Detect handwriting,Detect thing,1
+Detect information,Detect condition,1
+Identify handwriting,Identify thing,1
+Identify information,Identify thing,1
+Identify problems,Identify range,1
+Identify popular travel,Identify event,1
+Recommend prices,Recommend strategy,1
+Forecast trends,Forecast event,1
+Identify optimal time,Identify event,1
+Predict best case scenario,Predict thing,1
+Rate factors,Rate characteristics,1
+Detect person,Detect thing,1
+Detect query,Detect thing,1
+Compose text response,Compose response,1
+Identify response,Identify action,1
+Identify person,Identify thing,1
+Identify location of interest,Identify location,1
+Identify type,Identify thing,1
+Detect sequential pattern,Detect thing,1
+Compose text,Compose thing,1
+Detect person,Detect thing,1
+Identify person,Identify thing,1
+Identify emotion/intention,Identify intention,1
+Identify problems,Identify range,1
+Identify problems,Identify range,1
+Identify problems,Identify range,1
+Compare actions,Compare,1
+Detect event,Detect,1
+Detect thing,Detect,1
+Identify thing,Identify,1
+Recommend strategy,Recommend,1
+Detect thing,Detect,1
+Detect action,Detect,1
+Detect thing,Detect,1
+Identify location,Identify,1
+Identify action,Identify,1
+Rate range,Rate,1
+Estimate event,Estimate,1
+Forecast event,Forecast,1
+Predict location,Predict,1
+Recommend action,Recommend,1
+Compare things,Compare,1
+Detect thing,Detect,1
+Detect thing,Detect,1
+Detect thing,Detect,1
+Detect thing,Detect,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Compare things,Compare,1
+Detect thing,Detect,1
+Detect thing,Detect,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Rate things,Rate,1
+Detect condition,Detect,1
+Identify cause,Identify,1
+Identify location,Identify,1
+Identify thing,Identify,1
+Discover action,Discover,1
+Estimate range,Estimate,1
+Forecast outcome,Forecast,1
+Predict action,Predict,1
+Predict action,Predict,1
+Predict action,Predict,1
+Predict thing,Predict,1
+Rate outcome,Rate,1
+Forecast event,Forecast,1
+Monitor action,Monitor,1
+Predict event,Predict,1
+Recommend strategy,Recommend,1
+Compare things,Compare,1
+Identify thing,Identify,1
+Monitor event,Monitor,1
+Rate action,Rate,1
+Recommend feedback,Recommend,1
+Recommend feedback,Recommend,1
+Detect action,Detect,1
+Discover events,Discover,1
+Forecast impact,Forecast,1
+Compose response,Compose,1
+Identify action,Identify,1
+Recommend strategy,Recommend,1
+Detect anomaly,Detect,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Detect condition,Detect,1
+Estimate outcome,Estimate,1
+Estimate action,Estimate,1
+Identify thing,Identify,1
+Rate characteristics,Rate,1
+Recommend strategy,Recommend,1
+Rate things,Rate,1
+Recommend things,Recommend,1
+Detect thing,Detect,1
+Identify need,Identify,1
+Rate ability,Rate,1
+Recommend strategy,Recommend,1
+Estimate impact,Estimate,1
+Estimate impact,Estimate,1
+Forecast event,Forecast,1
+Predict event,Predict,1
+Recommend strategy,Recommend,1
+Identify thing,Identify,1
+Predict action,Predict,1
+Recommend action,Recommend,1
+Identify intention,Identify,1
+Identify thing,Identify,1
+Rate thing,Rate,1
+Recommend strategy,Recommend,1
+Detect thing,Detect,1
+Detect condition,Detect,1
+Identify thing,Identify,1
+Identify thing,Identify,1
+Identify range,Identify,1
+Identify event,Identify,1
+Recommend strategy,Recommend,1
+Forecast event,Forecast,1
+Identify event,Identify,1
+Predict thing,Predict,1
+Rate characteristics,Rate,1
+Detect thing,Detect,1
+Detect thing,Detect,1
+Compose response,Compose,1
+Identify action,Identify,1
+Identify thing,Identify,1
+Identify location,Identify,1
+Identify thing,Identify,1
+Detect thing,Detect,1
+Compose thing,Compose,1
+Detect thing,Detect,1
+Identify thing,Identify,1
+Identify intention,Identify,1
+Identify range,Identify,1
+Identify range,Identify,1
+Identify range,Identify,1
